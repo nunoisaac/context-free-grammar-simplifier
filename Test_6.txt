@@ -1,0 +1,4 @@
+A-BAB|CD|B|0
+B-xx|0
+C-aCD
+D-axa
